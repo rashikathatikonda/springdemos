@@ -11,8 +11,8 @@ h1 {text-align: center;}
 <h1>Rashika's Sporty Shoes</h1>
 <h2>An E-commerce Website</h2>
 <ol class="center" bgcolor="black">
-<li><h2><a href="products.jsp">User Login</a></h2></li>
-<li><h2><a href="login.jsp">Admin Login</a></h2></li>
+<h2><a href="products.jsp">User Login</a></h2>
+<h2><a href="login.jsp">Admin Login</a></h2>
 </ol>
 </body>
 </html>

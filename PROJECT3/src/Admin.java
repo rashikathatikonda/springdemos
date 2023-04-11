@@ -2,7 +2,7 @@ package com.example.SportyShoes.entity;
 
 import javax.persistence.Entity;
 
-//@Entity
+@Entity
 public class Admin {
 	
 	String username;
